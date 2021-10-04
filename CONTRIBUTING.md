@@ -51,7 +51,7 @@ guidelines prior to filing a bug report.
 
 4. Provide a minimal test case that reproduces your issue or any error
    information you related to your problem. We can provide feedback much
-   more quickly if we know what operations you are calling in the `go-saml`. If
+   more quickly if we know what operations you are calling in the `oidcsuite-automate`. If
    you cannot provide a full test case, provide as much code as you can
    to help us diagnose the problem. Any relevant information should be provided
    as well, like whether this is a persistent issue, or if it only occurs
@@ -60,11 +60,11 @@ guidelines prior to filing a bug report.
 ## Code Contributions
 
 We are always happy to receive code and documentation contributions. 
-Code contributions to the `go-saml` are done through [Pull Requests](../../pulls). The list below are guidelines to use when submitting pull requests. These are the 
+Code contributions to the `oidcsuite-automate` are done through [Pull Requests](../../pulls). The list below are guidelines to use when submitting pull requests. These are the 
 same set of guidelines that the core contributors use when submitting changes, and we ask the same of all community contributions as well:
 
 1. If you would like to implement support for a significant feature that is not
-   yet available in the `go-saml`, please talk to us beforehand to avoid any
+   yet available in the `oidcsuite-automate`, please talk to us beforehand to avoid any
    duplication of effort.
 
 3. Wherever possible, pull requests should contain tests as appropriate.
