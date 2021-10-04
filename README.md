@@ -1,2 +1,2 @@
 # oidcsuite-automate
-Automate the Oidc Suites to out the Oidc Profiles like Basic, Config, FormPost
+Automate the OpenidConnect Suites to test out the OpenId Profiles like Basic, Config, FormPost
